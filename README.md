@@ -1,3 +1,2 @@
-Distrbution management system 
 
  
